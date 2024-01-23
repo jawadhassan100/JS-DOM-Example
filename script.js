@@ -115,7 +115,7 @@ function max(num1, num2, num3) {
 }
 
 /* 
-strat
+start
 get num1, num2, num3 from user
 create max function
 check if num1 is greater than num2 AND num1 is greater then num3
@@ -125,3 +125,4 @@ check if num1 is greater than num2 AND num1 is greater then num3
 
 let maxNum = max(100, 50, 30);
 console.log(maxNum);
+
